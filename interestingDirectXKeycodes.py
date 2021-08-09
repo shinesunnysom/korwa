@@ -86,3 +86,4 @@ def xivInput(keys, delay=0.0):
     time.sleep(delay)
 
 # directx scan codes http://www.gamespp.com/directx/directInputKeyboardScanCodes.html
+# modify parameters
